@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1502193647
+#1504527197
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -29,7 +29,6 @@ images/mesa-sheet0.png
 images/mesa2-sheet0.png
 images/pia-sheet0.png
 images/fogao-sheet0.png
-images/mouse-sheet0.png
 images/esquerda-sheet0.png
 images/direita-sheet0.png
 images/cima-sheet0.png
@@ -50,7 +49,6 @@ images/cama-sheet0.png
 images/abajur-sheet0.png
 images/mesacomp-sheet0.png
 images/livros-sheet0.png
-images/celular-sheet0.png
 images/computador-sheet0.png
 images/porta3-sheet0.png
 images/sprite-sheet0.png
@@ -74,6 +72,22 @@ images/tile_3-sheet0.png
 images/tile_4-sheet0.png
 images/sobremesa-sheet0.png
 images/chao-sheet0.png
+images/b1-sheet0.png
+images/botao-sheet0.png
+images/cell-sheet0.png
+images/telacelular-sheet0.png
+images/snumb-sheet0.png
+images/bligar-sheet0.png
+images/chao1-sheet0.png
+images/q1-sheet0.png
+images/q1-sheet1.png
+images/quadro1-sheet0.png
+images/quadro3-sheet0.png
+images/tmorte.png
+images/tdesenv-sheet0.png
+images/logo2-sheet0.png
+images/play0-sheet0.png
+images/menu-sheet0.png
 media/audio%20das%20fases.m4a
 media/audio%20das%20fases.ogg
 media/click1.m4a
