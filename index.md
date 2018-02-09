@@ -14,14 +14,6 @@ Arnóbio Duarte, 18. Técnico em Programação de Jogos Digitais (IFRN).
 
 * * * 
 
-
-
 ![](http://portal.ifrn.edu.br/++resource++ifrn.tema2011.images/logo.png)
-
-#### Legendas:
-**italico  
-_negrito  
-~~riscado  
-  dois espaços para pular linha  
   
 * * * 
