@@ -2,7 +2,7 @@
 layout: default
 ---
 # Quem sou eu?
-
+![](arn.jpg)
 Arnóbio Duarte, 18. Técnico em Programação de Jogos Digitais (IFRN).
 
 * * * 
