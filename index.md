@@ -3,7 +3,8 @@ layout: default
 ---
 # Quem sou eu?
    ![](arno.jpg)  
-Arnóbio Duarte, 18. Técnico em Programação de Jogos Digitais (IFRN).
+Arnóbio Duarte, 18. Técnico em Programação de Jogos Digitais (IFRN).  
+email: arnobiojunior2010@gmail.com  
 
 * * * 
 
@@ -13,6 +14,9 @@ Arnóbio Duarte, 18. Técnico em Programação de Jogos Digitais (IFRN).
 * [JOGO 3 - CAPACETE BRANCO](https://zevictor.github.io/CapWhite/)
 
 * * * 
+### PROJETO DE PESQUISA (EM EXECUÇÃO)  
+O processo de abstração da forma aplicada ao desenho: Uma investigação para a melhoria da comunicação de ideias entre a etapa de concepção e a etapa de produção de personagens de jogos digitais.    
+Orientador: José Durval Pacheco Tavares Junior
 
 ![](http://portal.ifrn.edu.br/++resource++ifrn.tema2011.images/logo.png)
   
