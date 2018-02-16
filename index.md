@@ -11,7 +11,8 @@ Instagram: arnobio_duarte
 
 * * * 
 
-# GAMES
+# JOGOS
+
 * [JOGO 1 - EXPLORE](https://thewordkh.github.io/Explore/)  
 "Explore" coloca o jogador para imergir nas diversidades das regiões do Brasil.
 
@@ -26,8 +27,8 @@ Capacete Branco retrata os desastres de um típico país em pós-guerra. Ao fina
 * * *
 
 ## JOGOS EM CONSTRUÇÃO
-
-![011]()
+O jogo "011" está sendo feito com as artes em pixel art, na plataforma Construct. É baseado no seriado "Stranger Things".    
+![](011.png)    
 
 * * * 
 ### PROJETO DE PESQUISA (EM EXECUÇÃO)  
