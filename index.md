@@ -23,6 +23,11 @@ Este é um caso a ser desvendado com a ajuda das pistas deixadas em fitas casset
 * [JOGO 3 - CAPACETE BRANCO](https://zevictor.github.io/CapWhite/)  
 Capacete Branco retrata os desastres de um típico país em pós-guerra. Ao final, o jogador poderá fazer uma doação ao International Rescue Committee para ajudar aos países que vivenciaram/vivenciam a guerra.
 
+* * *
+
+## JOGOS EM CONSTRUÇÃO
+
+![011]()
 
 * * * 
 ### PROJETO DE PESQUISA (EM EXECUÇÃO)  
