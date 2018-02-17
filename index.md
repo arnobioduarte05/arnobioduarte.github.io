@@ -26,7 +26,7 @@ Capacete Branco retrata os desastres de um típico país em pós-guerra. Ao fina
 
 * * *
 
-# JOGOS EM CONSTRUÇÃO
+# JOGO EM CONSTRUÇÃO
 O jogo "011" está sendo feito com as artes em pixel art, na plataforma Construct. É baseado no seriado "Stranger Things".    
 ![](011.png)    
 
