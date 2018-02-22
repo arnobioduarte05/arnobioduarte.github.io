@@ -7,7 +7,8 @@ Arnóbio de Souza Duarte, 18.
 Técnico em Programação de Jogos Digitais (IFRN).  
 
 Email: arnobiojunior2010@gmail.com  
-Instagram: arnobio_duarte
+[Instagram: arnobio_duarte](https://www.instagram.com/arnobio_duarte/)  
+[Github: arnobioduarte05](https://github.com/arnobioduarte05)  
 
 * * * 
 
