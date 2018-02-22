@@ -31,7 +31,7 @@ Capacete Branco retrata os desastres de um típico país em pós-guerra. Ao fina
 O jogo "011" está sendo feito com as artes em pixel art, na plataforma Construct. É baseado no seriado "Stranger Things".    
 ![](011.png)    
 
-O jogo "Micro Guerra" está sendo feito para crianças. O objetivo é transferir conhecimentos sobre educação bucal.  
+O jogo "Micro Guerra" está sendo feito para crianças. O objetivo é transferir conhecimentos sobre saúde bucal.  
 ![](jo.png)
 * * * 
 # PROJETO DE PESQUISA (EM EXECUÇÃO)  
