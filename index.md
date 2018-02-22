@@ -33,6 +33,13 @@ O jogo "011" está sendo feito com as artes em pixel art, na plataforma Construc
 
 O jogo "Micro Guerra" está sendo feito para crianças. O objetivo é transferir conhecimentos sobre saúde bucal.  
 ![](jo.png)
+
+* * *
+
+MAPA DE INFLUÊNCIAS PARA AS ARTES (influence map)
+
+![](map.png)
+
 * * * 
 # PROJETO DE PESQUISA (EM EXECUÇÃO)  
 Título do Projeto:  
